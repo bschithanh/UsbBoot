@@ -1,9 +1,9 @@
 # 1 Click USB Boot mới nhất, tiện cho quí vị cứu hộ Windows
 
 ## Anhdv_Boot
-- [Anhdv_Boot_Pre_23.4]()
+- [Anhdv_Boot_Pre_23.4](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EqwzdjLFHnJDu8vEM_9bQe4B7hiPDdIDfARO1Pusb0ZQ1Q?e=4SqYf4)
 
-  [![image](https://github.com/user-attachments/assets/beb72f5c-299f-44fa-8cbd-0565fe4764a1)]()
+  [![image](https://github.com/user-attachments/assets/beb72f5c-299f-44fa-8cbd-0565fe4764a1)](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EqwzdjLFHnJDu8vEM_9bQe4B7hiPDdIDfARO1Pusb0ZQ1Q?e=4SqYf4)
 
 - Cách tạo USB Anhdv_Boot:
 - https://github.com/user-attachments/assets/1959facb-cda4-4f25-a5f2-128ba6a1110c
