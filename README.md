@@ -1,5 +1,9 @@
 # 1 Click USB Boot mới nhất, tiện cho quí vị cứu hộ Windows
 
+QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạn cà phê ạ!
+
+![image](https://github.com/user-attachments/assets/b9a751b6-0832-4876-a972-aeaec635d792)
+
 ## [Anhdv_Boot](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EqwzdjLFHnJDu8vEM_9bQe4B7hiPDdIDfARO1Pusb0ZQ1Q?e=4SqYf4)
 - [Anhdv_Boot_Pre_23.4](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EqwzdjLFHnJDu8vEM_9bQe4B7hiPDdIDfARO1Pusb0ZQ1Q?e=4SqYf4)
 
