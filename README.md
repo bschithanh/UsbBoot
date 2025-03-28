@@ -56,5 +56,6 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 ## [HKBoot](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EbrocT_YSlFBohtEK9SB1k4BQvCNE7QG8NcY7z4ewQJ3VQ?e=sPCd1j)
 ## [NKBoot_Pro](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EkO6nc6sDrhIvqV6ROyRWtoBX6Y1cG6gE0AsoiE8bRd0Kw?e=bvmbd6)
+## [RUFUS](https://rufus.ie/vi/)
 
 
