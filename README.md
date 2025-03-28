@@ -44,3 +44,8 @@
   ![Hướng dẫn sử dụng NHV BOOT-hình ảnh-3](https://github.com/user-attachments/assets/7e524700-176f-4a05-9e2c-cccc1ee8c3ab)
 
   ![Hướng dẫn sử dụng NHV BOOT-hình ảnh-4](https://github.com/user-attachments/assets/3f86a570-679f-47ce-ad17-f661f72efc23)
+
+## [HKBoot](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EbrocT_YSlFBohtEK9SB1k4BQvCNE7QG8NcY7z4ewQJ3VQ?e=sPCd1j)
+## [NKBoot_Pro](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EkO6nc6sDrhIvqV6ROyRWtoBX6Y1cG6gE0AsoiE8bRd0Kw?e=bvmbd6)
+
+
