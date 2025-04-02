@@ -23,6 +23,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 ## [NHVboot](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EhBP3wtqPtlOsfqbubnkr4wBuLCnIamWdOtnzyiENiKz_Q?e=7U5jXC)
 - [NHV-BOOT-2024-V1800-EXTREME](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EhBP3wtqPtlOsfqbubnkr4wBuLCnIamWdOtnzyiENiKz_Q?e=7U5jXC)
+- [NHVboot2025Extreme_1900_20241214](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/Elczf8sWICtDtNJmQqSlVokBbdhzuPe3zFuXyN-S1N0ZPg?e=vmlqBr)
 
   [![image](https://github.com/user-attachments/assets/beb72f5c-299f-44fa-8cbd-0565fe4764a1)](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EhBP3wtqPtlOsfqbubnkr4wBuLCnIamWdOtnzyiENiKz_Q?e=7U5jXC)
 
